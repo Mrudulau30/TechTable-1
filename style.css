@@ -1,0 +1,142 @@
+#header
+{
+    font-style: bold;
+    font-variant: normal;
+    font-weight: 300px;
+    text-align: center;
+ position: relative;
+   font-size: x-large;
+   
+  
+}
+
+ .rounded-circle
+ {
+     top:5%;
+     left: 5%;
+     margin-left: 30px;
+ }
+
+.form-control
+{
+    top:5%;
+    left:300%;
+ margin-left: 300px;
+ display: inline-block;
+   
+}
+.inner-image
+{
+    position: fixed;
+    top: 3%;
+    left: 15px;
+}
+.search
+{
+    top:5%;
+    position: fixed;
+    left:500px;
+}
+.login
+{ top:6%;
+    position: fixed;
+    left:1300px;
+}
+.sign-up
+{
+    top:6%;
+    position: fixed;
+    left: 1400px;
+
+}
+input[type=text],input[type=password]
+{
+    width: 100%;
+   padding: 12px 20px;
+   margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+button:hover {
+    opacity: 0.8;
+  }
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+
+  .cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+  }
+  span.psw {
+    float: right;
+    padding-top: 16px;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    overflow: hidden;
+    background-color: rgb(218, 219, 231);
+  }
+  
+  li {
+      color: black;
+    float:left;
+font-weight: 500;
+font-size: medium;
+ text-align: center;
+  padding: 0px 65px;
+  }
+
+ .images
+ {
+     padding:50px 100px;
+     position: fixed;
+ }
+ .info
+ {
+font-style: italic;
+ }
+ .main
+ {
+    display:table;
+    float:left;
+    height: 100px;
+    width: 110%;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
+ .main div{
+    width:150%;
+    margin-left: 5px;
+    margin-right: 5px;
+    float: left;
+}
+.main .images{
+  
+  text-align: center;
+  display: inline;
+  
+}
+.main .images div{
+    width:15%;
+   display: inline-block;
+}
+
+.footer
+{
+    padding-top: 600px;
+}
+
+  
